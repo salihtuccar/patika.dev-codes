@@ -1,0 +1,20 @@
+					[16,21,11,8,12,22]
+			 [16,21,11]				[8,12,22]
+
+		  [16,21]          [11]			   [8,12]	[22]
+
+	       [16]	   [21]    [11]                  [8]      [12]   [22]
+
+		[16,21]       [11]			[8,12]		[22]
+
+			[11,16,21]				[8,12,22]
+
+					
+					[8,11,12,16,21,22]
+
+
+
+
+Big-O gösterimi:
+
+Merge Sort da işlem sayısı (n-1) dir ve time complexity için dominant faktör n olacak ve O(n) sonucu elde edilecektir. Tüm etmenleri ele aldğımızda Big-O (nlogn) dir. 
